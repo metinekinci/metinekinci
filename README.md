@@ -5,10 +5,10 @@ Welcome to my GitHub Profile!
 I am a DevOps engineer with over 3 years of experience in the field. I am passionate about cloud technologies, automation, and enhancing software development processes. My expertise lies in Azure Cloud, Python, Linux, Bash, PowerShell, and Docker. I am currently expanding my knowledge and skills in Kubernetes to further advance my DevOps journey.
 
 ## Certifications
-Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
-Microsoft Certified: Azure Developer Associate (AZ-204)
-Microsoft Certified: Azure Fundamentals (AZ-900)
-Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
+- Microsoft Certified: Azure Developer Associate (AZ-204)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 
 ## Projects
 Throughout my professional career, I have worked on various projects leveraging my skills in cloud computing, scripting, and infrastructure management. Some notable projects include:
