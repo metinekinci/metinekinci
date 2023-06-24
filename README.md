@@ -21,9 +21,9 @@ Throughout my professional career, I have worked on various projects leveraging 
 I am passionate about exploring emerging technologies and trends in the DevOps space. Currently, I am actively learning and gaining hands-on experience with Kubernetes, container orchestration, and advanced cloud-native practices. I also enjoy sharing my knowledge through blog posts and engaging in technical discussions with the developer community.
 
 ## Contact Me
-If you have any questions, suggestions, or opportunities for collaboration, feel free to reach out to me. You can contact me via email at metinekinci.1996@outlook.com or connect with me on (LinkedIn)[].
+If you have any questions, suggestions, or opportunities for collaboration, feel free to reach out to me. You can contact me via email at metinekinci.1996@outlook.com or connect with me on [LinkedIn](https://www.linkedin.com/in/metinekinci).
 
- [Duck Duck Go](https://duckduckgo.com).
+ 
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you. 😊
 <!---
